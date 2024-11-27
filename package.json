@@ -1,0 +1,8 @@
+{
+  "name": "bindWithDelay",
+  "version": "1.0.0",
+  "description": "bindWithDelay jQuery plugin",
+  "homepage": "https://briangrinstead.com/files/bindWithDelay/",
+  "license": "MIT",
+  "author": "Brian Grinstead (https://briangrinstead.com/)"
+}
